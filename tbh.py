@@ -9,7 +9,7 @@ import tkinter as tk
 import random
 import matplotlib.pyplot as plt
 
-# Plot the image using plt.imshow (inline)
+# Plot the image using plt.imshow
 def plot_image(img):
     if img.ndim > 2:
         img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
