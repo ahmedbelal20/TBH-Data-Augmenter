@@ -4,7 +4,6 @@
 
 ![TBH Data Augmentor](https://github.com/user-attachments/assets/4ed0d325-4014-4b3b-9bc6-081f5f2c0835)
 
----
 
 ## ✨ Features
 
@@ -19,7 +18,6 @@
 - 🖼️ Image preview using `matplotlib`
 - 💾 Saves generated images in a new output directory
 
----
 
 ## 🚀 Getting Started
 
@@ -36,7 +34,6 @@ Install the required packages using pip:
 pip install opencv-python numpy matplotlib
 ```
 
----
 
 ## ▶️ Running the App
 1. Clone the repository:
@@ -56,7 +53,6 @@ python tbh_data_augmentation_generator.py
     - Select the transformations to apply
     - Click Generate
 
----
 
 ## 📁 Project Structure
 ```
@@ -66,7 +62,6 @@ python tbh_data_augmentation_generator.py
 └── README.md
 ```
 
----
 
 ## 📝 Notes
 - All generated images are resized to 300x300 pixels.
@@ -74,7 +69,6 @@ python tbh_data_augmentation_generator.py
 Translation → Rotation/Scaling → Flipping → Blurring
 - Output filenames are numbered sequentially (e.g., 0.png, 1.png, ...)
 
----
 
 ## 📌 Limitations
 - No batch processing — single image input at a time.
