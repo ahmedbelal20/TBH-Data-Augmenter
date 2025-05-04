@@ -39,22 +39,22 @@ pip install opencv-python numpy matplotlib
 ---
 
 ## ▶️ Running the App
-1- Clone the repository:
+1. Clone the repository:
 ```bash
 git clone https://github.com/your-username/tbh-data-augmentation.git
 cd tbh-data-augmentation
 ```
-2- Ensure you have an ```Input``` folder in the root directory and place your input image inside it.
-3- Run the script:
+2. Ensure you have an ```Input``` folder in the root directory and place your input image inside it.
+3. Run the script: 
 ```bash
 python tbh_data_augmentation_generator.py
 ```
-4- The GUI will open. Fill in the required fields:
-  - Input image name (e.g., example.jpg)
-  - Number of output images
-  - Output folder name (optional, only if saving is enabled)
-  - Select the transformations to apply
-  - Click Generate
+4. The GUI will open. Fill in the required fields:
+    - Input image name (e.g., example.jpg)
+    - Number of output images
+    - Output folder name (optional, only if saving is enabled)
+    - Select the transformations to apply
+    - Click Generate
 
 ---
 
