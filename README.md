@@ -2,7 +2,7 @@
 
 **TBH Data Augmentation Generator** is a Python-based GUI application that allows you to quickly apply various augmentation techniques to images for dataset expansion. This tool is ideal for machine learning practitioners and computer vision researchers looking to enrich their training data with minimal coding effort.
 
-![TBH Data Augmentor](https://github.com/user-attachments/assets/4ed0d325-4014-4b3b-9bc6-081f5f2c0835)
+![TBH Data Augmentor](https://github.com/user-attachments/assets/3bb53e66-0b81-45d0-8981-5c402d06e7c1)
 
 
 ## ✨ Features
