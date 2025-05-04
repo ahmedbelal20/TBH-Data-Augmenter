@@ -8,7 +8,6 @@ import numpy as np
 import tkinter as tk
 import random
 import matplotlib.pyplot as plt
-%matplotlib inline
 
 # Plot the image using plt.imshow (inline)
 def plot_image(img):
