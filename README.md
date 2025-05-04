@@ -16,7 +16,7 @@
   - Random **Flipping**
   - Random **Blurring**
 - 🖼️ Image preview using `matplotlib`
-- 💾 Saves generated images in a new output directory
+- 💾 Saving of augmented generated images in a new output directory
 
 
 ## 🚀 Getting Started
